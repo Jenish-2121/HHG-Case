@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/HHG-Case/static/js/main.b920238e.chunk.js",
+    "main.js.map": "/HHG-Case/static/js/main.b920238e.chunk.js.map",
+    "runtime-main.js": "/HHG-Case/static/js/runtime-main.3b25c153.js",
+    "runtime-main.js.map": "/HHG-Case/static/js/runtime-main.3b25c153.js.map",
+    "static/js/2.9a3e2239.chunk.js": "/HHG-Case/static/js/2.9a3e2239.chunk.js",
+    "static/js/2.9a3e2239.chunk.js.map": "/HHG-Case/static/js/2.9a3e2239.chunk.js.map",
+    "index.html": "/HHG-Case/index.html",
+    "static/js/2.9a3e2239.chunk.js.LICENSE.txt": "/HHG-Case/static/js/2.9a3e2239.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b25c153.js",
+    "static/js/2.9a3e2239.chunk.js",
+    "static/js/main.b920238e.chunk.js"
+  ]
+}
